@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97715a4f-8401-4ae6-86c0-46b1629af48e" name="Changes" comment="Updated project pages">
-      <change beforePath="$PROJECT_DIR$/projects/cs3750-bank-app-group.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cs3750-bank-app-group.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/cs3750-bank-app.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cs3750-bank-app.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/cs3750-four-in-a-row.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cs3750-four-in-a-row.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/cs3750-hangman.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/cs3750-hangman.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <updated>1723582554916</updated>
       <workItem from="1723582556033" duration="1240000" />
       <workItem from="1723602942028" duration="5145000" />
-      <workItem from="1723663695073" duration="2280000" />
+      <workItem from="1723663695073" duration="3101000" />
     </task>
     <task id="LOCAL-00001" summary="Updated project pages">
       <option name="closed" value="true" />
@@ -78,7 +75,23 @@
       <option name="project" value="LOCAL" />
       <updated>1723661591996</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated project pages">
+      <option name="closed" value="true" />
+      <created>1723673221942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723673221942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated project pages">
+      <option name="closed" value="true" />
+      <created>1723673382146</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723673382146</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
